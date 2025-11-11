@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Develop full-stack web applications using Next.js, React.js, and MongoDB<br>- Design user-friendly UIs and focus on responsive web layouts<br>- Manage end-to-end product lifecycles with a mix of tech and strategy<br>- Learn, experiment, and build projects that make an impact<br>
+ - Develop full-stack web applications using Next.js, React.js, and MongoDB<br>- Design user-friendly UIs and focus on responsive web layouts<br>- Manage end-to-end product lifecycles with a mix of tech and strategy<br>- Learn, experiment, and build projects that make an impact<br>
 
 
 ## 🌐 Socials:
